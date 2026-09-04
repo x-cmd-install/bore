@@ -7,7 +7,7 @@ about:
   head: 00a735a
   archived: false
   latestVersion: v0.6.0
-  collectedAt: 2026-09-04T19:36:59Z
+  collectedAt: 2026-09-04T20:55:19Z
 timeline:
   created: 2022-04-04
   lastCommit: 2026-02-04
@@ -82,5 +82,38 @@ total:
   openIssue: 7
   commit: 68
 ---
+path: /home/runner/.x-repo/github.com/ekzhang/bore
+collectedAt: 2026-09-04T20:55:19Z
+loc:
+  Rust:
+    code: 582
+    comments: 27
+    blanks: 115
+    files: 8
+  Bash:
+    code: 44
+    comments: 10
+    blanks: 10
+    files: 4
+  Toml:
+    code: 35
+    comments: 0
+    blanks: 3
+    files: 1
+  Dockerfile:
+    code: 9
+    comments: 0
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 65
+    blanks: 52
+    files: 1
+total:
+  code: 703
+  comments: 188
+  blanks: 195
+  files: 15
 ---
 
