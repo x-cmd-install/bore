@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.6.0"
   latestRelease: "v0.6.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T03:53:25Z
+  collectedAt: 2026-09-11T20:45:55Z
 timeline:
   created: 2022-04-04
   lastCommit: 2026-02-04
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2025-06-09
   lastPrerelease: 
 popularity:
-  star: 11492
+  star: 11493
   watcher: 62
-  fork: 527
+  fork: 528
   release: 11
   contributor: 21
   pullRequest: 61
@@ -85,7 +85,7 @@ total:
   commit: 68
 ---
 path: /home/runner/.x-repo/github.com/ekzhang/bore
-collectedAt: 2026-09-11T03:53:25Z
+collectedAt: 2026-09-11T20:45:56Z
 loc:
   Rust:
     code: 582
