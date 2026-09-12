@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 950721,
       "digest": "sha256:65f43a67b90874700538bdb6064c5e92276e64dfba24f5cd72ef24a035eec3bc",
-      "download_count": 2967,
+      "download_count": 2971,
       "created_at": "2025-06-09T20:14:23Z",
       "updated_at": "2025-06-09T20:14:23Z",
       "browser_download_url": "https://github.com/ekzhang/bore/releases/download/v0.6.0/bore-v0.6.0-aarch64-apple-darwin.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1073405,
       "digest": "sha256:ffc4515f3617420b243758cf36ed6a63208d7dba76b2ec3e90d1f476a9742951",
-      "download_count": 5824,
+      "download_count": 5832,
       "created_at": "2025-06-09T20:15:18Z",
       "updated_at": "2025-06-09T20:15:18Z",
       "browser_download_url": "https://github.com/ekzhang/bore/releases/download/v0.6.0/bore-v0.6.0-aarch64-unknown-linux-musl.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 972698,
       "digest": "sha256:206db723a382bbc18d2893fc8472868e0b5f41de35975269aab7891ecc8659cc",
-      "download_count": 754,
+      "download_count": 755,
       "created_at": "2025-06-09T20:14:33Z",
       "updated_at": "2025-06-09T20:14:33Z",
       "browser_download_url": "https://github.com/ekzhang/bore/releases/download/v0.6.0/bore-v0.6.0-x86_64-apple-darwin.tar.gz"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 673531,
       "digest": "sha256:01709c64fe2787cdc9a21d7030b0f08ad72dff0c36b7ecb72f4f667a55a34b4f",
-      "download_count": 28092,
+      "download_count": 28132,
       "created_at": "2025-06-09T20:16:29Z",
       "updated_at": "2025-06-09T20:16:29Z",
       "browser_download_url": "https://github.com/ekzhang/bore/releases/download/v0.6.0/bore-v0.6.0-x86_64-pc-windows-msvc.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 1097869,
       "digest": "sha256:e484d1e3acba77169b773f31a5bfb34192d4b660f44a094a658a2522cd2270f7",
-      "download_count": 37838,
+      "download_count": 37899,
       "created_at": "2025-06-09T20:15:03Z",
       "updated_at": "2025-06-09T20:15:03Z",
       "browser_download_url": "https://github.com/ekzhang/bore/releases/download/v0.6.0/bore-v0.6.0-x86_64-unknown-linux-musl.tar.gz"
