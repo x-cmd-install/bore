@@ -38,22 +38,22 @@ Total: **670** lines of code across **15** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 11,509 · **Forks**: 528 · **Open issues**: 126 · **Contributors**: 21
+- **Stars**: 11,517 · **Forks**: 528 · **Open issues**: 127 · **Contributors**: 21
 
 ## Totals (cumulative)
 
-- **Releases**: 11 · **Merged PRs**: 28 · **Open PRs**: 8 · **Closed issues**: 117 · **Open issues**: 9 · **Commits**: 68
+- **Releases**: 11 · **Merged PRs**: 28 · **Open PRs**: 8 · **Closed issues**: 117 · **Open issues**: 10 · **Commits**: 68
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 0 | 0 | 0 | 0 | 2 | 0 |
-| last60d | 2026-07-31 | 0 | 0 | 0 | 1 | 2 | 0 |
-| 90d | 2026-07-01 | 0 | 0 | 0 | 1 | 2 | 0 |
-| last180d | 2026-04-02 | 0 | 0 | 2 | 4 | 2 | 0 |
-| 360d | 2025-10-04 | 0 | 0 | 4 | 13 | 5 | 1 |
-| last720d | 2024-10-09 | 3 | 7 | 8 | 27 | 9 | 20 |
+| 30d | 2026-08-31 | 0 | 0 | 0 | 0 | 3 | 0 |
+| last60d | 2026-08-01 | 0 | 0 | 0 | 0 | 3 | 0 |
+| 90d | 2026-07-02 | 0 | 0 | 0 | 1 | 3 | 0 |
+| last180d | 2026-04-03 | 0 | 0 | 2 | 4 | 3 | 0 |
+| 360d | 2025-10-05 | 0 | 0 | 4 | 13 | 6 | 1 |
+| last720d | 2024-10-10 | 3 | 7 | 8 | 27 | 10 | 20 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for bore lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T05:05:27Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T04:51:35Z._
